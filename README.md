@@ -33,7 +33,6 @@ The goal of this project is to understand:
 - `Final Code_Enterprise GenAI Adoption_and_EDA.rmd` — Full RMarkdown analysis  
 
 ### **Reports**
-- `genai_eda_report.pdf` — Exploratory Data Analysis Report  
 - `Modeling Enterprise Productivity_ A Regression Analysis.pdf` — Regression Findings  
 - `Project _ How Generative AI Adoption is Reshaping Organizations.pdf` — Final summary/report  
 
