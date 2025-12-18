@@ -1,4 +1,4 @@
-# 🤖 Enterprise GenAI Adoption — Exploratory Data Analysis (EDA)
+# Enterprise GenAI Adoption — Exploratory Data Analysis (EDA)
 
 This project analyzes a dataset of 100k+ enterprise records related to Generative AI (GenAI) adoption across industries, countries, and job functions. The analysis explores adoption patterns, productivity impacts, workforce effects, and training intensity across organizations.
 
